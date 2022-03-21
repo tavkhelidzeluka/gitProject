@@ -1,0 +1,1 @@
+from Package1.module1 import func1
