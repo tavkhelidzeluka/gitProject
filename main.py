@@ -13,7 +13,7 @@ def main():
     print(a)
     print(ta)
     print_list_items([1, 2, 3, 4, 5])
-    print('hello')
+    # print('hello')
 
     print(read_file('a.txt'))
 
